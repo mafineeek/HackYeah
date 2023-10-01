@@ -1,0 +1,1 @@
+export const JwtSecret = '12321312321321';
